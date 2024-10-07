@@ -13,6 +13,12 @@
     {
       "id": 8,
       "url1": "https://github.com/missionpassed31/network/raw/refs/heads/main/ex8a.pkt"
+    },
+    
+    {
+      "id": 20,
+      "title": "Alternate and Combined Codes",
+      "code": "https://raw.githubusercontent.com/missionpassed31/test/main/OS/alternate.c"
     }
   ],
   "test": [
