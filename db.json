@@ -3,16 +3,16 @@
     {
       "id": 6,
       "url1": "https://github.com/missionpassed31/network/raw/refs/heads/main/ex6-a.pkt",
-      "url2": "https://github.com/missionpassed31/network/raw/refs/heads/main/ex6-b.pkt",
+      "url2": "https://github.com/missionpassed31/network/raw/refs/heads/main/ex6-b.pkt"
     },
     {
       "id": 7,
       "url1": "https://github.com/missionpassed31/network/raw/refs/heads/main/exp7_ripv1.pkt",
-      "url2": "https://github.com/missionpassed31/network/raw/refs/heads/main/exp7_ripv2.pkt",
+      "url2": "https://github.com/missionpassed31/network/raw/refs/heads/main/exp7_ripv2.pkt"
     },
     {
       "id": 8,
-      "url1": "https://github.com/missionpassed31/network/raw/refs/heads/main/ex8a.pkt",
+      "url1": "https://github.com/missionpassed31/network/raw/refs/heads/main/ex8a.pkt"
     }
   ]
 }
